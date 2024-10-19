@@ -16,3 +16,7 @@ This project aims to analyse possible statistical methods to measure poverty in 
 The files inside are:
 - **ind20_ascii/CSV**: it is a repository containing the csv files with the original datasets used to analyze the phenomenon of poverty.
 - **Tesi completa.pdf**: is the final thesis report in pdf format and it also present in the UniPd website in the sections of public thesis. It is written in italian since the Bachelor's degree was in this language.
+
+## CONSIDERATIONS
+
+It was a privilege and pleasure to have been able to analyze and write about a topic so close to the people. A meaningful journey!
