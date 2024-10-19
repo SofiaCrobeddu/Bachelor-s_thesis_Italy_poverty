@@ -1,1 +1,1 @@
-# Bachelor-s_thesis_Italy_poverty
+# Bachelor_thesis_Italy_poverty
